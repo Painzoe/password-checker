@@ -10,7 +10,7 @@ It is simple project for username and password control.
 1. Make sure you have Python 3 installed.
 2. Clone the project.
 
-```bash
-git clone https://github.com/kullaniciadi/sifre-yoneticisi.git
-cd sifre-yoneticisi
-python main.py
+'''bash
+git clone https://github.com/Painzoe/password-checker.git
+cd password-checker
+python Password-checking.py
